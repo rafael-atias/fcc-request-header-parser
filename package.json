@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://hyperdev.com/#!/project/welcome-project"
+    "url": "git@github.com:rafael-atias/fcc-request-header-parser.git"
   },
   "keywords": [
     "node",
@@ -23,5 +23,8 @@
     "express"
   ],
   "license": "MIT",
-  "author": ""
+  "author": "",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
 }
